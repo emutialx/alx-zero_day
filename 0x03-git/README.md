@@ -1,1 +1,1 @@
-Added a readme for the subdirectory
+Edited a readme for this subdirectory to use git pull 
